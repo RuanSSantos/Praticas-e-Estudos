@@ -1,0 +1,37 @@
+body {
+  font-family: "Roboto Mono", monospace;
+  text-align: center;
+  background-image: url("https://img.freepik.com/vetores-gratis/vetor-de-fundo-de-ciencia-de-tecnologia-medica-em-azul-com-espaco-em-branco_53876-117739.jpg?w=740&t=st=1700313001~exp=1700313601~hmac=fd1058bf916b9c65464ef4ec2996825cc27c77944a5e97cd3752d3b6710d2e71");
+  background-color: #000000;
+  background-size: cover;
+  background-position: center botom;
+  background-repeat: no-repeat;
+  height: 100vh;
+}
+
+.container {
+  text-align: center;
+  padding: 20px;
+}
+
+.page-title {
+  color: #ffffff;
+  margin: 0 0 5px;
+}
+
+.page-subtitle {
+  color: #ffffff;
+  margin-top: 5px;
+}
+
+.page-logo {
+  width: 200px;
+}
+
+body > img {
+  margin: 0 10px;
+}
+
+img {
+  max-height: 250px;
+}
