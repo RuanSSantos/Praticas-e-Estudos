@@ -1,0 +1,23 @@
+{"categoria":
+  {"id":2,"nome":"Sobremesas","codigo":"sobremesa","descricao":""},
+   "itens_cardapio":[
+     {
+       "descricao" : "Combinação generosíssima de brownie de Doce de Leite ou Nutella, com sorvete de creme e calda de chocolate.",
+       "nome" : "Brownie com Sorvete",
+       "preco_porcao_pequena" : 12,
+       "nome_porcao_pequena" : "1 bola",
+       "preco_porcao_grande" : 17,
+       "nome_porcao_grande" : "2 bolas",
+       "codigo" : "S1"
+     },
+     {
+       "descricao" : "Nossos Milk Shakes fazem qualquer um ficar apaixonado! Temos de Doce de Leite com Nozes, Ovomaltine, Morango e Nuttela!",
+       "nome" : "Milkshakes",
+       "preco_porcao_pequena" : 15,
+       "nome_porcao_pequena" : "300ml",
+       "preco_porcao_grande" : 20,
+       "nome_porcao_grande" : "500ml",
+       "codigo" : "S2"
+     }
+   ]
+}

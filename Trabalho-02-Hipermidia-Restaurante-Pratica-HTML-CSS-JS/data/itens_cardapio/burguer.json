@@ -1,0 +1,50 @@
+{"categoria":
+  {"id":1,"nome":"Burguers","codigo":"burguer","descricao":""},
+   "itens_cardapio":[
+     {
+       "descricao" : "Pão da Casa, Maionese Verde, Hambúrguer, Queijo Muçarela, Queijo Brie, Geleia de Pimenta e Rúcula.",
+       "nome" : "Brie Burguer",
+       "codigo" : "B1",
+       "preco_porcao_pequena" : 20,
+       "nome_porcao_pequena" : "90g",
+       "preco_porcao_grande" : 30,
+       "nome_porcao_grande" : "180g"   
+     },
+     {
+       "descricao" : "Pão e Maionese da Casa, Hambúrguer e Queijo Muçarela derretido.",
+       "nome" : "Carne e Queijo",
+       "codigo" : "B2",
+       "preco_porcao_pequena" : 20,
+       "nome_porcao_pequena" : "90g",
+       "preco_porcao_grande" : 30,
+       "nome_porcao_grande" : "180g"  
+     },
+     {
+       "descricao" : "Pão da Casa, Molho de Tomate Le Pinguê, Hambúrguer, Catupiry e Bacon crocante.",
+       "nome" : "Catupiry com Bacon",
+       "codigo" : "B3",
+       "preco_porcao_pequena" : 20,
+       "nome_porcao_pequena" : "90g",
+       "preco_porcao_grande" : 30,
+       "nome_porcao_grande" : "180g"   
+     },
+     {
+       "descricao" : "Pão da Casa, Molho de Queijo, dois Hambúrgueres, Queijo Prato, Ketchup Le Pinguê e Bacon em tiras.",
+       "nome" : "Duplo Bacon",
+       "codigo" : "B4",
+       "preco_porcao_pequena" : 20,
+       "nome_porcao_pequena" : "90g",
+       "preco_porcao_grande" : 30,
+       "nome_porcao_grande" : "180g"   
+     },
+     {
+       "descricao" : "Pão e Maionese da Casa, Hambúrguer prensado e Queijo Cheddar derretido.",
+       "nome" : "Cheeseburger",
+       "codigo" : "B5",
+       "preco_porcao_pequena" : 20,
+       "nome_porcao_pequena" : "90g",
+       "preco_porcao_grande" : 30,
+       "nome_porcao_grande" : "180g"  
+     }
+   ]
+}
